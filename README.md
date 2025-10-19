@@ -33,23 +33,23 @@
 ## Screenshots / Evidence
 ### 1. Command Prompt & Task Output
 Shows the commands executed and the results observed during the investigation.
-![Command Prompt Screenshot](Github Screenshot 1.png)
+
+![Command Prompt Screenshot](Github_Screenshot_1.png)
 
 ### 2. Macro Analysis in Word
-Confirms the presence of an active macro in the suspicious `.docm` file.
-![Macro Screenshot](Screenshots/macro.png)
+Confirms the presence of an active macro in the suspicious .docm file.
+
+![Macro Screenshot](Github_Screenshot_2.png)
 
 ### 3. Registry Editor – Persistence Entry
-Displays the `default app` key added by the malicious file for automatic startup.
-![Registry Screenshot](Screenshots/registry.png)
+Displays the default app key added by the malicious file for automatic startup.
 
-### 4. Answered Challenge Questions
-Evidence of the answers submitted during the TryHackMe exercise.
-![Questions Screenshot](Screenshots/questions.png)
+![Registry Screenshot](Github_Screenshot_3.png)
 
 ### 5. Completion Certificate
 Proof of completion for the TryHackMe incident response exercise.
-![Certificate Screenshot](Screenshots/certificate.png)
+
+![Certificate Screenshot](Github_Screenshot_4.png)
 
 
 
