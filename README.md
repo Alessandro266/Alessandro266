@@ -31,20 +31,25 @@
 ---
 
 ## Screenshots / Evidence
-### 1. Task Manager – Suspicious Process
-This screenshot shows the unknown process identified in Task Manager that indicated unusual activity.
+### 1. Command Prompt & Task Output
+Shows the commands executed and the results observed during the investigation.
+![Command Prompt Screenshot](Github Screenshot 1.png)
 
+### 2. Macro Analysis in Word
+Confirms the presence of an active macro in the suspicious `.docm` file.
+![Macro Screenshot](Screenshots/macro.png)
 
-### 2. Downloads Folder – Suspicious File
-Here we traced the malicious file to the Downloads folder in Microsoft Edge. The file was a .docm Word document.
+### 3. Registry Editor – Persistence Entry
+Displays the `default app` key added by the malicious file for automatic startup.
+![Registry Screenshot](Screenshots/registry.png)
 
+### 4. Answered Challenge Questions
+Evidence of the answers submitted during the TryHackMe exercise.
+![Questions Screenshot](Screenshots/questions.png)
 
-### 3. Macro Analysis
-Using the "View Macros" function in Word, we confirmed the file contained an active macro.
-
-
-### 4. Registry Entry – Persistence
-The malicious file had added a registry key named default app to automatically execute on startup.
+### 5. Completion Certificate
+Proof of completion for the TryHackMe incident response exercise.
+![Certificate Screenshot](Screenshots/certificate.png)
 
 
 
