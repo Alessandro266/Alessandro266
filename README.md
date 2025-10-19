@@ -31,6 +31,21 @@
 ---
 
 ## Screenshots / Evidence
+### 1. Task Manager – Suspicious Process
+This screenshot shows the unknown process identified in Task Manager that indicated unusual activity.
+
+
+### 2. Downloads Folder – Suspicious File
+Here we traced the malicious file to the Downloads folder in Microsoft Edge. The file was a .docm Word document.
+
+
+### 3. Macro Analysis
+Using the "View Macros" function in Word, we confirmed the file contained an active macro.
+
+
+### 4. Registry Entry – Persistence
+The malicious file had added a registry key named default app to automatically execute on startup.
+
 
 
 ---
