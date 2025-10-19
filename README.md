@@ -62,5 +62,5 @@ Proof of completion for the TryHackMe incident response exercise.
 ---
 
 ## 📎 Related Files
-- [Project Report (PDF)]()
+- [Project Report (PDF)](Report_ITECH1502.pdf)
 - [Presentation Slides (PPTX)](link-to-your-presentation.pptx)
